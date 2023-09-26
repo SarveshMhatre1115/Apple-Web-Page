@@ -1,0 +1,112 @@
+body{
+    display:grid;
+}
+img{
+    height: 350px;
+    text-align: center;
+}
+.Ip{
+    background-color: black;
+    text-align: center;
+}
+.Ip h1{
+    color:grey;
+    font-size: 10px;
+}
+.Ip h2{
+    color:white;
+    font-size: 16px;
+    line-height: 1px;
+}
+.Ip h3{
+    color:rgb(226, 88, 226);
+    font-size:25px;
+    line-height: 20px;
+}
+.Ip p{
+    color: white;
+    font-size:15px;
+
+
+}
+.Ip button{
+    background-color:blue;
+    color: white;
+    border-color:blue;
+    border-radius:8px;
+    font-size: 12px;
+    padding:3px 9px;
+
+}
+.Ip button:hover{
+    color: aqua;
+}
+.Ip a{
+    color: blue;
+    font-size:12px;
+}
+.Ip a:hover{
+    color:aqua;
+}
+.Ip1{
+text-align: center;
+background-color: black;
+}
+
+img{
+    height: 350px;
+    text-align: center;
+}
+
+.Ip3{
+    background-color:white;
+    text-align: center;
+}
+.Ip3 h1{
+    color:grey;
+    font-size: 10px;
+    line-height:10px;
+    padding-top: 40px;
+}
+.Ip3 h2{
+    color:black;
+    font-size: 16px;
+    line-height: 1px;
+}
+.Ip3 h3{
+    color:rgb(51, 95, 243);
+    font-size:25px;
+    line-height: 20px;
+}
+.Ip3 h3 span{
+    color: rgb(245, 25, 99);
+}
+.Ip3 p{
+    color:black;
+    font-size:15px;
+
+
+}
+.Ip3 button{
+    background-color:blue;
+    color: white;
+    border-color:blue;
+    border-radius:8px;
+    font-size: 12px;
+    padding:3px 9px;
+
+}
+.Ip3 button:hover{
+    color: aqua;
+}
+.Ip3 a{
+    color: blue;
+    font-size:12px;
+}
+.Ip3 a:hover{
+    color:aqua;
+}
+.Ip4{
+text-align: center;
+background-color:white;
+}
